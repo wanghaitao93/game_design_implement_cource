@@ -6,4 +6,6 @@
 - 刘嘉裕
 - 薛智朋
 
+###项目原型网址：https://github.com/wanghaitao93/game_design_implement_cource.git
+
 ####具体游戏设计可看DESIGN.md文档####
