@@ -10,7 +10,7 @@
 薛智朋	|16126224
 
 ##### 游戏设计文档	DESIGN.md文档
-##### 游戏演示视频	LeiMingPlane.mp4  （预计27号中午上传）
+##### 游戏演示视频	LeiMingPlane.mp4 
 ##### 游戏源码	    Cocos2dxPlane文件夹
 ##### 游戏原型网址：	https://modao.cc/app/mbS2lOuCm8ew8DUOFDWXrgYuSrCnFB6
 
